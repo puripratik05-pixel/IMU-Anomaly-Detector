@@ -1,0 +1,5 @@
+Processed data shape: (1000, 4)
+Number of anomalies: 327
+First anomaly indices: [ 8  9 10 11 12]
+Window means shape: (901, 4)
+Window standard deviations shape: (901, 4)
